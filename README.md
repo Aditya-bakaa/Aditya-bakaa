@@ -37,7 +37,7 @@
 
 ### **Frameworks**
 <p>
-<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap" />
 </p>
 
 <!--### **AI / ML**
