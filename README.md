@@ -12,7 +12,7 @@
 
 ## ⚡ Who I Am
 
-<!--- B.Tech (CSE), Faculty of Technology, University of Delhi (DU) — 1st Year  -->
+- B.Tech (CSE), Faculty of Technology, University of Delhi (DU) — 1st Year 
 - Frontend Development • React Ecosystem • Python 
 - “Code. Create. Beyond Infinity.”  
 
