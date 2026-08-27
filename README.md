@@ -5,8 +5,6 @@
 
 # **ADITYA**
 
-<!-- Social Icons[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A020F0&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;AI+%2F+ML+Developer;Agentic+AI+Pipelines;RAG+Systems+Architect;React+%2B+Next.js+%2B+Flutter+Dev;Hackathon+Builder;5%2B+Years+Experience;DevCom+IIT+B+Developer;Always+Building+Impossible+Things)](https://homepages.iitb.ac.in/~24b4211) -->
-
 </div>
 
 
@@ -40,22 +38,20 @@
 <img src="https://skillicons.dev/icons?i=react,bootstrap" />
 </p>
 
-<!--### **AI / ML**
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
-<br/>
-<b>Scikit-Learn • CNN • RNN • LSTM • SVM • RAG • FAISS • LangChain • LangGraph • NLP • Parallel Processing</b>
-</p>
-
-### **Databases**
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite,postgres,prisma" />
-</p>
--->
 
 ### **Infra / DevOps**
 <p>
 <img src="https://skillicons.dev/icons?i=docker,aws,git" />
+</p>
+
+### **Deployment / Hosting**
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
+</p>
+
+### **APIs / Services**
+<p>
+<img src="https://skillicons.dev/icons?i=formspree" />
 </p>
 
 ### **Tools**
