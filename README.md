@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Team-The_Demogorons-red).
+![](https://img.shields.io/badge/Team-The_Demogorons-red)
 ![](https://img.shields.io/badge/404-User_Not_Found-purple)
 ![](https://img.shields.io/badge/Mission-To_Infinity_&_Beyond-black)
 ![](https://img.shields.io/badge/Status-Building_Future_Projects-blue)
