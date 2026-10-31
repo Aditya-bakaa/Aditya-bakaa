@@ -52,7 +52,7 @@
 
 ### **APIs / Services**
 <p>
-<img src="https://skillicons.dev/icons?i=formspree" />
+<img src="https://skillicons.dev/icons?i=gemini, groq" />
 </p>
 
 ### **Tools**
