@@ -52,7 +52,7 @@
 
 ### **APIs / Services**
 <p>
-<img src="https://skillicons.dev/icons?i=gemini, groq" />
+<img src="https://skillicons.dev/icons?i=fastapi&theme=light" />
 </p>
 
 ### **Tools**
